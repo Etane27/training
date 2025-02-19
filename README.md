@@ -28,4 +28,3 @@
 ## Auteurs
 
 - [Etane BABELA]
-- [Abygaêl MALHA]
